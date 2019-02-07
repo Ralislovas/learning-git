@@ -1,0 +1,1 @@
+console.log("Adding a console.log function");
